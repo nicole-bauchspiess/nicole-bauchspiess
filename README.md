@@ -3,7 +3,7 @@
 
 - 👨‍💻 Trabalo como atendente de suporte há 2 anos e 8 meses
 - 📝 Estou estudando para migrar de área com foco no desenvolvimento backend
-- 🌱 Atualmente estou aprendendo **Java, Spring Boot e C#**
+- 🌱 Atualmente estou aprendendo **Java, Spring Boot e C# e MySQL**
 - 📫 email: **nicoleb3007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
