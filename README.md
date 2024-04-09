@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, meu nome é Nicole Bauchspiess</h1>
 <h2 align="center">Estudante de Ciência da Computação</h2>
 
-- 👨‍💻 Trabalhei como atendente de suporte há 2 anos e 8 meses
+- 👨‍💻 Trabalhei como atendente de suporte há 2 anos e 10 meses
 - 📝 Iniciei como estagiária de desenvolvimento em abril/2024 e estou estudando para conseguir evoluir profissionalmente 
 - 🌱 Atualmente estou aprendendo **Java, Spring Boot e MySQL**
 - 📫 email: **nicoleb3007@gmail.com**
