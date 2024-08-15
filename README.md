@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, meu nome é Nicole Bauchspiess</h1>
-<h2 align="center">Estudante de Ciência da Computação</h2>
+<h2 align="center">Estudante de Ciência da Computação e dev backend</h2>
 
 - 👨‍💻 Trabalhei como atendente de suporte há 2 anos e 10 meses
 - 📝 Iniciei minha carreira como desenvolvedora em 06/2024 e continuo estudando em busca de conhecimento. 
-/- 🌱 Atualmente estou aprendendo **Java, Spring Boot e Postgres**
+- 🌱 Atualmente estou aprendendo **Java, Spring Boot e Postgres**
 - 📫 email: **nicoleb3007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
